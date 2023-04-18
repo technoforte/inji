@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "989946117309",
-    "project_id": "technoforte-55050",
-    "storage_bucket": "technoforte-55050.appspot.com"
+    "project_number": "241854214681",
+    "project_id": "e2e-project-d7b26",
+    "storage_bucket": "e2e-project-d7b26.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:989946117309:android:1d4fd0177cc2585cdf4bd4",
+        "mobilesdk_app_id": "1:241854214681:android:fb17b15d30f66689afb088",
         "android_client_info": {
           "package_name": "io.mosip.residentapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "989946117309-o8frhjtmkurm5of1esji5pelootp9p0d.apps.googleusercontent.com",
+          "client_id": "241854214681-pq571iaajo1dh5bhmc5lhppb3kga61m1.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBaykeWljL26FMevUlm_OXpqN40ctbJOqM"
+          "current_key": "AIzaSyCKnZ-V1Tw3YdDXAGbXdHh8rlTdLdVs_fc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "989946117309-o8frhjtmkurm5of1esji5pelootp9p0d.apps.googleusercontent.com",
+              "client_id": "241854214681-pq571iaajo1dh5bhmc5lhppb3kga61m1.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
