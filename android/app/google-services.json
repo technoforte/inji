@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "241854214681",
-    "project_id": "e2e-project-d7b26",
-    "storage_bucket": "e2e-project-d7b26.appspot.com"
+    "project_number": "790054956778",
+    "project_id": "e2eb3-cd605",
+    "storage_bucket": "e2eb3-cd605.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:241854214681:android:fb17b15d30f66689afb088",
+        "mobilesdk_app_id": "1:790054956778:android:9c0942eb44c65c2c9a3193",
         "android_client_info": {
           "package_name": "io.mosip.residentapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "241854214681-pq571iaajo1dh5bhmc5lhppb3kga61m1.apps.googleusercontent.com",
+          "client_id": "790054956778-2512b6rsi28uvkrr5il2gs7obs962kin.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCKnZ-V1Tw3YdDXAGbXdHh8rlTdLdVs_fc"
+          "current_key": "AIzaSyDdUthpeQeQNhArolZy-kXwkuzc7eOmNlI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "241854214681-pq571iaajo1dh5bhmc5lhppb3kga61m1.apps.googleusercontent.com",
+              "client_id": "790054956778-2512b6rsi28uvkrr5il2gs7obs962kin.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
